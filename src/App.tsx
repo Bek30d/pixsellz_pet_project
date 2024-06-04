@@ -25,7 +25,7 @@ function App() {
             <p className='text-gray-500	 text-center'>Sign in to access to your dashboard, settings and projects</p>
           </div>
         </div>
-        <div className='flex flex-col space-y-4 items-center'>
+        <div className='w-full flex flex-col space-y-4 items-center'>
           <div className='flex flex-col gap-2 w-full'>
             <Button variant="outline" className='rounded-full flex items-center gap-1.5 opacity-100 shadow-sm'>
               <img src={Facebook} alt="Facebook" />
